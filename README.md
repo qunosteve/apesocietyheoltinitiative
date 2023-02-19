@@ -4,8 +4,17 @@ Powershell Script that Runs a Cardano Blockchain-wide Snapshot of Heolt Cabins, 
 Requirements to participate in this initiative:
 
 1. Hold any ape society family. 
-2. Hold a cabin in Heolt (district 1). 
+2. Hold a cabin in Heolt (District 1). 
 3. Hold one ghostchain nft in the same wallet as your Heolt cabin. 
 4. Maximum of three sets of apes,ghosts,heolt cabins.
 
 ## Instructions
+
+
+
+
+
+
+
+
+Last run took 1250 Requests & 12min on i7-2600k w/ 1600MHz RAM
