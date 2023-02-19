@@ -10,6 +10,7 @@ Requirements to participate in this initiative:
 
 ## Instructions
 
+Instructions coming soon, but if you download the ps1 and csv files you can see the instructions under the USER VARIABLES section
 
 
 
