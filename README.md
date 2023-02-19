@@ -1,5 +1,5 @@
 # Ape Society Heolt Initiative
-Powershell Script that Runs a Cardano Blockchain-wide Snapshot of Heolt Cabins, Ghosts, and Apes for King White's Initiative.
+Powershell Script that Runs a Cardano Blockchain-wide Snapshot of Heolt Cabins, Ghosts, and Apes for King White's Initiative. Made this script open source so anyone can validate for themselves.
 
 Requirements to participate in this initiative:
 
