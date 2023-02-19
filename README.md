@@ -17,4 +17,4 @@ Requirements to participate in this initiative:
 
 
 
-Last run took 1250 Requests & 12min on i7-2600k w/ 1600MHz RAM
+Last run used 1250 Requests & took 12min on i7-2600k w/ 1600MHz memory
