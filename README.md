@@ -10,7 +10,7 @@ Requirements to participate in this initiative:
 
 ## Install Instructions
 
-1) Download all files from this repository (apes.csv, ghosts.csv heoltCabins.csv, heoltGhostchaininitiative.ps1) and save on a directory on your pc (keep them all in the same directory)
+1) Download all files from this repository https://github.com/qunosteve/apesocietyheoltinitiative/ (apes.csv, ghosts.csv heoltCabins.csv, heoltGhostchaininitiative.ps1) and save on a directory on your pc (keep them all in the same directory)
 
 2) In that same directory, create a file named "project_id.txt" and paste your blockfrost mainnet project_id into the first line of that file and save. To get a blockfrost account, go to https://blockfrost.io/ and sign up
 
