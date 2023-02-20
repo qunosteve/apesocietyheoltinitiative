@@ -1,5 +1,5 @@
 # Ape Society Heolt Initiative from King Rad White
-Powershell Script that Runs a Cardano Blockchain-wide Snapshot of Heolt Cabins, Ghosts, and Apes for King White's Ghostchain staking Initiative. Made this script open source so anyone can run and validate for themselves.
+Powershell Script that Runs a Cardano Blockchain-wide Snapshot of Heolt Cabins, Ghosts, and Apes for King White's Ghostchain staking Initiative. Made this script open source so anyone can run and validate for themselves. You can use this solutione to verify your stake address's eligibility for the initiative (this is what the White family will use for snapshots as well).
 
 Requirements to participate in this initiative:
 
@@ -10,7 +10,7 @@ Requirements to participate in this initiative:
 
 ## Install Instructions
 
-1) Download all files from this repository https://github.com/qunosteve/apesocietyheoltinitiative/ (apes.csv, ghosts.csv heoltCabins.csv, heoltGhostchaininitiative.ps1) and save on a directory on your pc (keep them all in the same directory)
+1) Download all files (apes.csv, ghosts.csv heoltCabins.csv, heoltGhostchaininitiative.ps1) from this repository https://github.com/qunosteve/apesocietyheoltinitiative/  and save the files to a directory on your pc (keep them all in the same directory).
 
 2) In that same directory, create a file named "project_id.txt" and paste your blockfrost mainnet project_id into the first line of that file and save. To get a blockfrost account, go to https://blockfrost.io/ and sign up
 
@@ -23,4 +23,4 @@ Requirements to participate in this initiative:
 
 
 
-Last run used 1250 Requests & took 12min on i7-2600k w/ 1600MHz memory
+Note: Last time this was ran it used 1250 Requests & took 12min on i7-2600k w/ 1600MHz memory
