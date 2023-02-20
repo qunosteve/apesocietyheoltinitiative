@@ -276,8 +276,8 @@ Function Calculate-Eligibility ($address, $cabins, $apes, $ghosts) {
 #Output File. What do you want to name the output file?
 $outFile = $PSScriptRoot+"\heoltGhostStakingIniative.csv"
 
-#Enable/Disable Powershell ISE Console Logging with 0 or 1. Default is 0 for no logging.
-$consoleLoggingEnabled = 0
+#Enable/Disable Powershell ISE Console Logging with 0 or 1. Default is 1 logging/user feedback.
+$consoleLoggingEnabled = 1
 
 #Blockfrost Project ID file path. Make a txt file and paste in your blockfrost project_id in the first line of the file
 $projectIDFilePath = $PSScriptRoot+"\project_id.txt"
