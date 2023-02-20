@@ -1,5 +1,5 @@
 # Ape Society Heolt Initiative from King Rad White
-Powershell Script that Runs a Cardano Blockchain-wide Snapshot of Heolt Cabins, Ghosts, and Apes for King White's Ghostchain staking Initiative. Made this script open source so anyone can run and validate for themselves. You can use this solutione to verify your stake address's eligibility for the initiative (this is what the White family will use for snapshots as well).
+Powershell Script that Runs a Cardano Blockchain-wide Snapshot of Heolt Cabins, Ghosts, and Apes for King White's Ghostchain staking Initiative. Made this script open source so anyone can run and validate for themselves. You can use this solution to verify your stake address's eligibility for the initiative (this is what the White family will use for snapshots as well).
 
 Requirements to participate in this initiative:
 
