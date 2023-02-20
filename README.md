@@ -8,6 +8,8 @@ Requirements to participate in this initiative:
 3. Hold one ghostchain nft in the same wallet as your Heolt cabin. 
 4. Maximum of three sets of apes,ghosts,heolt cabins.
 
+More info on this initiative here (note this is separate from the Amphitheatre Warhammer initiative that will come later down the road): https://theapesociety.gitbook.io/digest/the-ape-society-digest/apes/craftsmen/families/white/notable-apes/radcliff-white/king-whites-statement
+
 ## Install/Run Instructions
 
 1) Download all files (apes.csv, ghosts.csv heoltCabins.csv, heoltGhostchaininitiative.ps1) from this repository https://github.com/qunosteve/apesocietyheoltinitiative/  and save the files to a directory on your pc (keep them all in the same directory).
