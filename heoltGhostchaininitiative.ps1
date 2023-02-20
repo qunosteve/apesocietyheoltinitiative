@@ -95,8 +95,6 @@ Function Get-TokensFromAddress ($addressList) {
     #Enter loop to check each address for assets
     foreach ($address in $addressList)
     {
-        #if ($address -ne "")
-        #{
             #Each address's variables such as array of assets
             $assets = @()
         
@@ -163,7 +161,6 @@ Function Get-TokensFromAddress ($addressList) {
 
             #Aggregate all variables and calculate/output Eligibility to file
             Calculate-Eligibility $address $numHeoltCabins $numApes $numGhosts
-        #}
     }
 }
 
